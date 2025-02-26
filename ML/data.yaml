@@ -1,0 +1,6 @@
+train: dataset/images/train
+val: dataset/images/val
+test: dataset/images/test
+
+nc: 4  # จำนวนคลาส (Holstein, Jersey, Angus, Belgian Blue)
+names: ["Holstein", "Jersey", "Angus", "Belgian Blue"]
